@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_text">Привет!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="green_item">Зелёный</string>
+    <string name="red_item">Красный</string>
+    <string name="yellow_item">Жёлтый</string>
+    <string name="snackbar_text">Измените действие</string>
+</resources>

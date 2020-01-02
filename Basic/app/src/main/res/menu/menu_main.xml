@@ -1,0 +1,15 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="a.basic.MainActivity">
+    <item
+        android:id="@+id/green_item"
+        android:title="@string/green_item" />
+    <item
+        android:id="@+id/yellow_item"
+        android:title="@string/yellow_item" />
+    <item
+        android:id="@+id/red_item"
+        android:title="@string/red_item" />
+</menu>
