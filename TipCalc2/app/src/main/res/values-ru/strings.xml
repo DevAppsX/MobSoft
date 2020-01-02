@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Чаевые</string>
+    <string name="label_tip">Чаевые</string>
+    <string name="label_total">Итого:</string>
+    <string name="hint_text">Введите сумму</string>
+    <string name="b_send">Отправить</string>
+    <string name="b_thank">Спасибо!</string>
+	<string name="b_thanks">Вкусно!\n\tУютно!\n\t\tПриду ещё!</string>
+</resources>
